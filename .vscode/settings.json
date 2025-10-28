@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "/home/optert/ML-labs-Tert/.venv/bin/python",
+  "python.terminal.activateEnvironment": true
+}
